@@ -22,4 +22,4 @@ python manage.py runserver
 
 `You can generate your QR Code by using api. Details are given in picture`
 
-<p align="center"><img src="" alt="Details of api" /></p>
+<p align="center"><img src="https://repository-images.githubusercontent.com/405882401/cf08cfd8-7bbf-4c00-aa4d-cf44b9f1e288" alt="Details of api" /></p>
